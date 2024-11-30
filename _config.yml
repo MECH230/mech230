@@ -8,7 +8,7 @@ course_semester: "Spring 2025"
 # baseurl: "/ml4science/" # the subpath of your site, e.g. /blog/
 # url: "http://josephbakarji.github.io/" # the base hostname & protocol for your site
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/mech230" # the subpath of your site, e.g. /blog/
 url: "https://mech230.github.io" # the base hostname & protocol for your site
 
 schoolname: "American University of Beirut"
