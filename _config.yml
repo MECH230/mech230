@@ -1,19 +1,15 @@
 # Site settings
-course_name: Data-Driven Modeling in Science and Engineering
-course_description: "
-How do we go from a high dimensional, noisy, nonlinear, complex, and multiscale universe to 
-simple and predictive mathematical models? This course introduces modern machine learning techniques 
-using a wide variety of examples in physical, social and biological sciences. 
-Modern data-driven approaches that take advantage of recent advances in machine learning are introduced, 
-including: sparse identification of differential equations, dynamics mode decomposition, 
-and physics informed neural networks."
-course_semester: "Spring 2024"
+course_name: MECH230 Dynamics
+course_description: "In this course, we get introduced to Euler's first and second laws 
+(the balance of linear and angular momentum), and apply them to particles, 
+system of particles, and rigid bodies in planar motion."
+course_semester: "Spring 2025"
 
 # baseurl: "/ml4science/" # the subpath of your site, e.g. /blog/
 # url: "http://josephbakarji.github.io/" # the base hostname & protocol for your site
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ml4science.com" # the base hostname & protocol for your site
+url: "https://mech230.github.io" # the base hostname & protocol for your site
 
 schoolname: "American University of Beirut"
 schoolurl: "https://www.aub.edu.lb"
